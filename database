@@ -1,0 +1,117 @@
+db.fashionecommerce.insertMany([
+  {
+    id: 1,
+    name: "Tshirt",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Fwhite-plain-tshirt-23761625448.html&psig=AOvVaw29AGSBifTNJSm1Y4r8uo2A&ust=1710303188389000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCC_4Lu7YQDFQAAAAAdAAAAABAD",
+    desc: "White cotton Tshirt",
+  },
+  {
+    id: 2,
+    name: "jeans",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fkiller-skinny-men-dark-blue-jeans%2Fp%2Fitma98f25dac9244%3Fpid%3DJEAGS8QYU37MHYME%26lid%3DLSTJEAGS8QYU37MHYMEADORKF%26marketplace%3DFLIPKART%26cmpid%3Dcontent_jean_8965229628_gmc&psig=AOvVaw2d2ErPkzS2AEk7NaqEyjpF&ust=1710303403777000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjNv_ju7YQDFQAAAAAdAAAAABAK",
+    desc: "Navy blue jeans",
+  },
+  {
+    id: 3,
+    name: "Shorts",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ajio.com%2Fnike-men-logo-print-regular-fit-running-shorts%2Fp%2F469564412_black&psig=AOvVaw2J8364TV76kaYwmergpwOy&ust=1710303493446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiQ4JPv7YQDFQAAAAAdAAAAABAD",
+    desc: "Comfy shorts",
+  },
+  {
+    id: 4,
+    name: "Socks",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ajio.com%2Fadidas-pack-of-3-ankle-length-socks%2Fp%2F465540778_multi&psig=AOvVaw0FWH7x3ULD5m3K9SbjyTHs&ust=1710303604480000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNicg8nv7YQDFQAAAAAdAAAAABAD",
+    desc: "Colorful socks",
+  },
+  {
+    id: 5,
+    name: "Top",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.limeroad.com%2Fmulti-besiva-p18874776&psig=AOvVaw2rVz4xS-gTuLgYzoergbvd&ust=1710303675835000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjsne_v7YQDFQAAAAAdAAAAABAM",
+    desc: "Cute Top",
+  },
+  {
+    id: 6,
+    name: "Dress",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jiomart.com%2Fp%2Ffashion%2Ffabflee-women-red-printed-chiffon-a-line-dress-red%2F593893012&psig=AOvVaw18YWaMn6P4-XHizRvWkkch&ust=1710303760160000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjknJPw7YQDFQAAAAAdAAAAABAD",
+    desc: "Authentic dress",
+  },
+  {
+    id: 7,
+    name: "Sharee",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Ffashionable-women-saree-with-latest-design-2851121026897.html&psig=AOvVaw00E9n33maQg4nX03WgTqg0&ust=1710303928014000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjfg-Pw7YQDFQAAAAAdAAAAABAI",
+    desc: "Beautiful saree",
+  },
+  {
+    id: 8,
+    name: "Leggings",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.decathlon.in%2Fp%2F8547528%2Fwomen-leggings-and-gym-shorts%2Fwomen-gym-leggings-high-waist-black%3Fid%3D8547528%26type%3Dp&psig=AOvVaw2h4I7Ud6B5V5jgEzDpW9ew&ust=1710303983813000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDL-v3w7YQDFQAAAAAdAAAAABAT",
+    desc: "Comfortable leggings",
+  },
+  {
+    id: 9,
+    name: "Trackpants",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thecollective.in%2Fp%2Fwomen-black-3-striped-track-pants-876909.html&psig=AOvVaw3nHkaWCwdpYEg3HiizygOa&ust=1710304032592000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC6pZbx7YQDFQAAAAAdAAAAABAp",
+    desc: "Black trackpants",
+  },
+  {
+    id: 10,
+    name: "Leather Jacket",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fredbridgejeans.de%2FRed-Bridge-Men-Jacket-Biker-Jacket-Leather-Jacket-Brando-Real-Leather-M6078_5&psig=AOvVaw2D8GpAZk8ilNo3dExgJMmc&ust=1710304095179000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDkibPx7YQDFQAAAAAdAAAAABAI",
+    desc: "Dashing leather jacket",
+  },
+  {
+    id: 12,
+    name: "Sweater",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.planetfashion.in%2Fproduct%2Fvan-heusen-maroon-sweater-538317.html&psig=AOvVaw2QcG8eG8BUS_H16-tPzsGf&ust=1710304139010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiVw8zx7YQDFQAAAAAdAAAAABAU",
+    desc: "Warm sweater",
+  },
+  {
+    id: 13,
+    name: "Hoodie",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myntra.com%2Fhoodies&psig=AOvVaw1hpUwnPexNmATX265IN4_W&ust=1710304196148000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLir4eTx7YQDFQAAAAAdAAAAABAE",
+    desc: "Cool hoodie",
+  },
+  {
+    id: 14,
+    name: "Cap",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adidas.co.in%2Fdaily-cap%2FIC9708.html&psig=AOvVaw2z02OVSc5eWXoMF9zmSQLU&ust=1710304389554000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiym8Dy7YQDFQAAAAAdAAAAABAD",
+    desc: "Protect from sunlight",
+  },
+  {
+    id: 15,
+    name: "Mask",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vegnonveg.com%2Fproducts%2Fface-cover-3-pack-black&psig=AOvVaw2vdMpAD0adeyyn3D5A-a8c&ust=1710304416468000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDx78vy7YQDFQAAAAAdAAAAABAD",
+    desc: "Stay away from pollution",
+  },
+  {
+    id: 16,
+    name: "Hand Gloves",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Fin-en%2Flisting%2F1258010340%2Fknitted-gloves-for-men-100-merino-wool&psig=AOvVaw3W8OAhwx6r_rJgB8z627YZ&ust=1710304454221000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjDv-Hy7YQDFQAAAAAdAAAAABAD",
+    desc: "Hand gloves that warm your hands",
+  },
+  {
+    id: 17,
+    name: "Underwear",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meesho.com%2Fmen-underwear%2Fp%2F3bi355&psig=AOvVaw0RSCS2PJTBj40fczp17WiT&ust=1710304531282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjq5oLz7YQDFQAAAAAdAAAAABAD",
+    desc: "Comfortable underwear for men",
+  },
+  {
+    id: 18,
+    name: "Leather Belt",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artisansoul.in%2Fproducts%2Fgenuine-leather-belt-for-men-brown&psig=AOvVaw2LPgzuxLKH743Ap7FAoWfC&ust=1710304583883000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCh6pvz7YQDFQAAAAAdAAAAABAI",
+    desc: "Strong leather belt",
+  },
+  {
+    id: 19,
+    name: "Shoes",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nike.com%2Fin%2Fu%2Fcustom-nike-dunk-high-by-you-shoes-10001378&psig=AOvVaw0EJ_fzbQ1HJMyXYnlCUWNw&ust=1710304628842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDlm7Pz7YQDFQAAAAAdAAAAABAD",
+    desc: "Blue shoes",
+  },
+  {
+    id: 20,
+    name: "Slippers",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Ffabrication-printed-rapid-05-slipper-size-6-7-8-9-10-23929792455.html&psig=AOvVaw2efg2a4TkmDvql9cxQlaXU&ust=1710304670198000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDYk8Xz7YQDFQAAAAAdAAAAABAU",
+    desc: "Red slippers",
+  },
+]);
+
